@@ -1,6 +1,6 @@
 # android_device_samsung_gprimeltectc
 
-## Device tree for Samsung Galaxy Grand Prime G5306W G5308W G5309W [grimeltectc]
+## Device tree for Samsung Galaxy Grand Prime G5309W  [grimeltectc]
 
 |                   Basic | Spec Sheet                               |
 | ----------------------: | :--------------------------------------- |
